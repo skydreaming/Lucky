@@ -1,16 +1,11 @@
 package com.cjz.data.provider;
 
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
-import java.io.ByteArrayOutputStream;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import javax.imageio.stream.FileImageInputStream;
 
 import com.cjz.data.Ticket;
 
